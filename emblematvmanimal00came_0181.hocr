@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./emblematvmanimal00came/emblematvmanimal00came_0181.png"; bbox 0 0 1898 2677; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1600 103 1657 147">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1600 103 1657 147">
+     <span class='ocr_line' id='line_1_1' title="bbox 1600 103 1657 147; baseline 0 -9"><span class='ocrx_word' id='word_1_1' title='bbox 1600 103 1657 147; x_wconf 79' lang='lat'><em>90</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 333 156 1534 1791">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 333 156 1534 1791">
+     <span class='ocr_line' id='line_1_2' title="bbox 333 156 1534 1791; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 333 156 1534 1791; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 274 2030 1548 2183">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 274 2030 1548 2183">
+     <span class='ocr_line' id='line_1_3' title="bbox 274 2030 1548 2105; baseline -0.002 -14"><span class='ocrx_word' id='word_1_3' title='bbox 274 2034 539 2091; x_wconf 70' lang='lat' dir='ltr'><em>‘Protrahit</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 564 2031 790 2103; x_wconf 71' lang='lat' dir='ltr'><em>abfirusts</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 802 2030 1002 2105; x_wconf 65' lang='lat' dir='ltr'><em>mustela</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1017 2036 1290 2088; x_wconf 80' lang='lat' dir='ltr'><em>cuniculum</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1301 2032 1368 2088; x_wconf 78' lang='lat' dir='ltr'><em>ab</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1378 2039 1548 2089; x_wconf 66' lang='lat' dir='ltr'><em>antris,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 393 2105 1269 2183; baseline -0.002 -19"><span class='ocrx_word' id='word_1_9' title='bbox 393 2117 447 2164; x_wconf 63' lang='lat' dir='ltr'><em>ft</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 461 2107 626 2183; x_wconf 66' lang='lat' dir='ltr'><em>quisst‘</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 638 2123 802 2163; x_wconf 78' lang='lat' dir='ltr'><em>tutum</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 794 2108 959 2178; x_wconf 84' lang='lat' dir='ltr'><em>speret</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 967 2105 1033 2161; x_wconf 76' lang='lat' dir='ltr'><em>ab</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1051 2108 1231 2180; x_wconf 61' lang='lat' dir='ltr'><em>irfidiia</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1243 2113 1269 2162; x_wconf 73' lang='grc' dir='ltr'><strong><em>ἓ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1059 2340 1637 2417">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1059 2340 1637 2417">
+     <span class='ocr_line' id='line_1_5' title="bbox 1059 2340 1637 2417; baseline -0.009 -24"><span class='ocrx_word' id='word_1_16' title='bbox 1059 2348 1108 2393; x_wconf 81' lang='lat' dir='ltr'><em>X</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1165 2356 1205 2417; x_wconf 24' lang='lat'><em>‘2</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1423 2340 1637 2409; x_wconf 63' lang='lat' dir='ltr'><em>Qua-</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

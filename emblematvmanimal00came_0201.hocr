@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./emblematvmanimal00came/emblematvmanimal00came_0201.png"; bbox 0 0 1898 2677; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1539 104 1614 138">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1539 104 1614 138">
+     <span class='ocr_line' id='line_1_1' title="bbox 1539 104 1614 138; baseline -0.027 0"><span class='ocrx_word' id='word_1_1' title='bbox 1539 104 1614 138; x_wconf 77' lang='lat'><em>100</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 205 181 1517 1798">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 205 181 1517 1798">
+     <span class='ocr_line' id='line_1_2' title="bbox 205 181 1517 1798; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 205 181 1517 1798; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 241 2044 1454 2200">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 241 2044 1454 2200">
+     <span class='ocr_line' id='line_1_3' title="bbox 241 2044 1454 2126; baseline -0.001 -20"><span class='ocrx_word' id='word_1_3' title='bbox 241 2049 560 2124; x_wconf 74' lang='lat' dir='ltr'><em>Tardigrada</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 570 2050 832 2124; x_wconf 74' lang='lat' dir='ltr'><em>affiquitur</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 846 2044 1018 2126; x_wconf 63' lang='lat' dir='ltr'><em>Cygno}</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1037 2050 1214 2123; x_wconf 73' lang='lat' dir='ltr'><em>testudo</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1225 2049 1454 2105; x_wconf 71' lang='lat' dir='ltr'><em>volucres·</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 363 2124 1362 2200; baseline 0.001 -23"><span class='ocrx_word' id='word_1_8' title='bbox 363 2125 607 2197; x_wconf 62' lang='lat' dir='ltr'><em>eAss&#39;t&#39;duus</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 621 2144 708 2197; x_wconf 81' lang='lat' dir='ltr'><em>quo</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 718 2145 810 2177; x_wconf 80' lang='lat' dir='ltr'><em>non</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 804 2126 904 2197; x_wconf 76' lang='lat' dir='ltr'><em>stit</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 914 2141 1177 2200; x_wconf 78' lang='lat' dir='ltr'><em>penetrare</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1186 2124 1322 2177; x_wconf 73' lang='lat' dir='ltr'><em>labor</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1338 2130 1362 2178; x_wconf 71' lang='grc' dir='ltr'><strong><em>ἒ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1415 2361 1613 2404">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1415 2361 1613 2404">
+     <span class='ocr_line' id='line_1_5' title="bbox 1415 2361 1613 2404; baseline -0.01 0"><span class='ocrx_word' id='word_1_15' title='bbox 1415 2361 1613 2404; x_wconf 65' lang='grc' dir='ltr'><strong>σγεΝῐ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
